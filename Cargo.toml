@@ -1,0 +1,10 @@
+[package]
+name = "jqi"
+version = "0.1.0"
+authors = ["Theo Danneels <danneels.theo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5"
+jq-sys = "0.2.2"
+# jq-rs = { path = "./jq-rs" }
